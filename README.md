@@ -22,9 +22,10 @@
 打包方法：使用命令行，cd到.py脚本所在目录，`pyinstaller -F test.py`即可。`pyinstaller -i imag.ico -F test.py`可设置图标。  
 
 ## 依赖的第三方库
-[requests](https://github.com/pyinstaller/pyinstaller)  
+[requests](https://github.com/kennethreitz/requests)  
 [pywifi](https://github.com/awkman/pywifi)  
 [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)  
+[pywin32](https://pypi.org/project/pywin32/)  
 
 ## 关于作者
 BJFU非计算机专业的一只野生猿，欢迎与我交流Python。(๑¯∀¯๑)
